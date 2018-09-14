@@ -1,6 +1,7 @@
 extern crate ascender;
 extern crate image;
 extern crate rusttype;
+#[macro_use]
 extern crate structopt;
 
 use std::path::PathBuf;
